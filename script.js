@@ -1,5 +1,5 @@
-const API = "https://simple-fup-tracker.onrender.com//fuckups";
-const COUNT = "https://simple-fup-tracker.onrender.com//count";
+const API = "https://simple-fup-tracker.onrender.com/fuckups";
+const COUNT = "https://simple-fup-tracker.onrender.com/count";
 
 async function load() {
   const logEl = document.getElementById("log");
